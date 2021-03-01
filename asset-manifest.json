@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kursBitCoin/static/css/main.44a4df72.chunk.css",
+    "main.js": "/kursBitCoin/static/js/main.c4334920.chunk.js",
+    "main.js.map": "/kursBitCoin/static/js/main.c4334920.chunk.js.map",
+    "runtime~main.js": "/kursBitCoin/static/js/runtime~main.43e93c16.js",
+    "runtime~main.js.map": "/kursBitCoin/static/js/runtime~main.43e93c16.js.map",
+    "static/js/2.236262ab.chunk.js": "/kursBitCoin/static/js/2.236262ab.chunk.js",
+    "static/js/2.236262ab.chunk.js.map": "/kursBitCoin/static/js/2.236262ab.chunk.js.map",
+    "index.html": "/kursBitCoin/index.html",
+    "precache-manifest.81efcb06235c2f32241eb88640c958ef.js": "/kursBitCoin/precache-manifest.81efcb06235c2f32241eb88640c958ef.js",
+    "service-worker.js": "/kursBitCoin/service-worker.js",
+    "static/css/main.44a4df72.chunk.css.map": "/kursBitCoin/static/css/main.44a4df72.chunk.css.map"
+  }
+}
