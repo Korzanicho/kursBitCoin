@@ -1,3 +1,20 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  text-align: center;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.logo {
+  width: 75px;
+  height: 75px;
+}
+
 .green{
   color: green;
 }
@@ -8,4 +25,15 @@
 
 .blue{
   color: blue;
+}
+
+@media (max-width: 393px) {
+  .mobileHide {
+    display: none;
+  }
+
+  .header {
+    align-items: center;
+    flex-direction: column;
+  }
 }
